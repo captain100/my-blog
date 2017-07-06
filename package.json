@@ -86,12 +86,13 @@
     ]
   },
   "theme": {
-    "primary-color": "#1088ae"
+    "primary-color": "#1da57a"
   },
   "eslintConfig": {
     "extends": "react-app"
   },
   "devDependencies": {
+    "babel-plugin-import": "^1.2.1",
     "less": "^2.7.2",
     "less-loader": "^4.0.4"
   }
